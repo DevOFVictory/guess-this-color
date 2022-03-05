@@ -1,6 +1,8 @@
-# Guess this color
+# Guess this color 🎨
 The name says all - You have to guess the rgb code of the color shown up on the screen.
 
+### Screenshot
+![Screenshot](assets/Screenshot.png)
 
 ### Compile by source
 1. Clone the project `git clone https://github.com/DevOFVictory/guess-this-color.git`
@@ -13,3 +15,4 @@ The name says all - You have to guess the rgb code of the color shown up on the 
 - Download and install Node.js (https://nodejs.org/en/)
 - Nativescript (`npm install -g nativescript`)
 - Setup working Java envirement
+
